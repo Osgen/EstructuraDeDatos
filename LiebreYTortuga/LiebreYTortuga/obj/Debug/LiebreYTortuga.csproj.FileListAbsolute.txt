@@ -1,0 +1,10 @@
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.csprojResolveAssemblyReference.cache
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.Form1.resources
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.Properties.Resources.resources
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.csproj.GenerateResource.Cache
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.csproj.CoreCompileInputs.cache
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\bin\Debug\LiebreYTortuga.exe.config
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\bin\Debug\LiebreYTortuga.exe
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\bin\Debug\LiebreYTortuga.pdb
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.exe
+c:\users\xboxm\source\repos\LiebreYTortuga\LiebreYTortuga\obj\Debug\LiebreYTortuga.pdb
