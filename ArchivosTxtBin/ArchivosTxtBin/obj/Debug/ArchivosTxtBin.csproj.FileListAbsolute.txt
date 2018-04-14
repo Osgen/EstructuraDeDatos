@@ -1,0 +1,10 @@
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\bin\Debug\ArchivosTxtBin.exe.config
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\bin\Debug\ArchivosTxtBin.exe
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\bin\Debug\ArchivosTxtBin.pdb
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.Form1.resources
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.Properties.Resources.resources
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.csproj.GenerateResource.Cache
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.exe
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.pdb
+C:\Users\xboxm\source\repos\ArchivosTxtBin\ArchivosTxtBin\obj\Debug\ArchivosTxtBin.csprojResolveAssemblyReference.cache
