@@ -1,0 +1,10 @@
+C:\Users\xboxm\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\xboxm\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\xboxm\source\repos\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.csprojResolveAssemblyReference.cache
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.Form1.resources
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.Cache
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\xboxm\source\repos\Figuras\Figuras\obj\Debug\Figuras.pdb
