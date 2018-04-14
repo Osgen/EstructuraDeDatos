@@ -1,0 +1,10 @@
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\bin\Debug\ColaderaDeErastotenes.exe.config
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\bin\Debug\ColaderaDeErastotenes.exe
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\bin\Debug\ColaderaDeErastotenes.pdb
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.csprojResolveAssemblyReference.cache
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.Form1.resources
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.Properties.Resources.resources
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.csproj.GenerateResource.Cache
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.csproj.CoreCompileInputs.cache
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.exe
+c:\users\xboxm\source\repos\ColaderaDeErastotenes\ColaderaDeErastotenes\obj\Debug\ColaderaDeErastotenes.pdb
