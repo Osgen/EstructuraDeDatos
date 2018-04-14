@@ -1,0 +1,10 @@
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\bin\Debug\EstructuraConArreglos.exe.config
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\bin\Debug\EstructuraConArreglos.exe
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\bin\Debug\EstructuraConArreglos.pdb
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.csprojResolveAssemblyReference.cache
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.Form1.resources
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.Properties.Resources.resources
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.csproj.GenerateResource.Cache
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.exe
+C:\Users\xboxm\source\repos\EstructuraConArreglos\EstructuraConArreglos\obj\Debug\EstructuraConArreglos.pdb
