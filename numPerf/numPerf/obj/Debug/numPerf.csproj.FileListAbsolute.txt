@@ -1,0 +1,10 @@
+C:\Users\xboxm\source\repos\numPerf\numPerf\bin\Debug\numPerf.exe.config
+C:\Users\xboxm\source\repos\numPerf\numPerf\bin\Debug\numPerf.exe
+C:\Users\xboxm\source\repos\numPerf\numPerf\bin\Debug\numPerf.pdb
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.csprojResolveAssemblyReference.cache
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.Form1.resources
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.Properties.Resources.resources
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.csproj.GenerateResource.Cache
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.exe
+C:\Users\xboxm\source\repos\numPerf\numPerf\obj\Debug\numPerf.pdb
