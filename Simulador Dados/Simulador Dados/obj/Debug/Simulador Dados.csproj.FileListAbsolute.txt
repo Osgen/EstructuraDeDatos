@@ -1,0 +1,20 @@
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\bin\Debug\Simulador Dados.exe.config
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\bin\Debug\Simulador Dados.exe
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\bin\Debug\Simulador Dados.pdb
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.csprojResolveAssemblyReference.cache
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador_Dados.Form1.resources
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador_Dados.Properties.Resources.resources
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.csproj.GenerateResource.Cache
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.exe
+C:\Users\xboxm\source\repos\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.pdb
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\bin\Debug\Simulador Dados.exe.config
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\bin\Debug\Simulador Dados.exe
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\bin\Debug\Simulador Dados.pdb
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.csprojResolveAssemblyReference.cache
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador_Dados.Form1.resources
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador_Dados.Properties.Resources.resources
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.csproj.GenerateResource.Cache
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.csproj.CoreCompileInputs.cache
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.exe
+C:\Users\20136386\Desktop\SimuladorDados-master\Simulador Dados\Simulador Dados\obj\Debug\Simulador Dados.pdb
