@@ -13,8 +13,16 @@ namespace EstructuraConArreglos
 
         public void agregar(Producto p)
         {
-            _vector[index] = p;
-            index++;
+            if(index<15)
+            {
+                _vector[index] = p;
+                index++;
+            }
+            else
+            {
+                //INVENTARIO LLENO
+            }
+            
         }
 
         public Producto buscar(int id)
@@ -43,14 +51,22 @@ namespace EstructuraConArreglos
 
         public void insertar(Producto p,int pos)
         {
-            int n = _vector.Length-1;
-            for(int i=pos; i<_vector.Length-1; i++)
+            if(index<15)
             {
-                _vector[n] = _vector[n - 1];
-                n--;
+                int n = _vector.Length - 1;
+                for (int i = pos; i < _vector.Length - 1; i++)
+                {
+                    _vector[n] = _vector[n - 1];
+                    n--;
+                }
+                _vector[pos] = p;
+                index++;
             }
-            _vector[pos] = p;
-            index++;
+            else
+            {
+                //INVENTARIO LLENO
+            }
+            
         }
 
         public string listar()
