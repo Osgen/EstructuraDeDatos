@@ -1,0 +1,10 @@
+C:\Users\xboxm\Desktop\Rutas\Rutas\bin\Debug\Rutas.exe.config
+C:\Users\xboxm\Desktop\Rutas\Rutas\bin\Debug\Rutas.exe
+C:\Users\xboxm\Desktop\Rutas\Rutas\bin\Debug\Rutas.pdb
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.csprojResolveAssemblyReference.cache
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.Form1.resources
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.Properties.Resources.resources
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.csproj.GenerateResource.Cache
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.exe
+C:\Users\xboxm\Desktop\Rutas\Rutas\obj\Debug\Rutas.pdb
