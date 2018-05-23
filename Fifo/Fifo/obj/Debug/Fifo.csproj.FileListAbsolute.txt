@@ -1,0 +1,10 @@
+C:\Users\xboxm\source\repos\Fifo\Fifo\bin\Debug\Fifo.exe.config
+C:\Users\xboxm\source\repos\Fifo\Fifo\bin\Debug\Fifo.exe
+C:\Users\xboxm\source\repos\Fifo\Fifo\bin\Debug\Fifo.pdb
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.csprojResolveAssemblyReference.cache
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.Form1.resources
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.Properties.Resources.resources
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.csproj.GenerateResource.Cache
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.csproj.CoreCompileInputs.cache
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.exe
+C:\Users\xboxm\source\repos\Fifo\Fifo\obj\Debug\Fifo.pdb
