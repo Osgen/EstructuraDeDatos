@@ -1,0 +1,10 @@
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.csprojResolveAssemblyReference.cache
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.Form1.resources
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.Properties.Resources.resources
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.csproj.GenerateResource.Cache
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.csproj.CoreCompileInputs.cache
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\bin\Debug\AtencionProcesos.exe.config
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\bin\Debug\AtencionProcesos.exe
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\bin\Debug\AtencionProcesos.pdb
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.exe
+C:\Users\20136386\source\repos\AtencionProcesos\AtencionProcesos\obj\Debug\AtencionProcesos.pdb
