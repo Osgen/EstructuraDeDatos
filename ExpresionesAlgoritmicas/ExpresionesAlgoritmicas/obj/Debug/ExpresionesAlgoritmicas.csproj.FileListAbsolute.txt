@@ -8,3 +8,13 @@ C:\Users\xboxm\Desktop\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug
 C:\Users\xboxm\Desktop\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.csproj.CoreCompileInputs.cache
 C:\Users\xboxm\Desktop\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.exe
 C:\Users\xboxm\Desktop\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.pdb
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\bin\Debug\ExpresionesAlgoritmicas.exe.config
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\bin\Debug\ExpresionesAlgoritmicas.exe
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\bin\Debug\ExpresionesAlgoritmicas.pdb
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.csprojResolveAssemblyReference.cache
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.Form1.resources
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.Properties.Resources.resources
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.csproj.GenerateResource.Cache
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.csproj.CoreCompileInputs.cache
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.exe
+C:\Users\20136386\Desktop\EstructuraDeDatos-master\ExpresionesAlgoritmicas\ExpresionesAlgoritmicas\obj\Debug\ExpresionesAlgoritmicas.pdb

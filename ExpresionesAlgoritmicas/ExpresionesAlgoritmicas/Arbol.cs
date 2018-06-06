@@ -166,23 +166,33 @@ namespace ExpresionesAlgoritmicas
         public int resolverPostOrder(string s)
         {
             Stack<int> lifo = new Stack<int>();
+            int a;
+            int b;
             for (int i = 0; i < s.Length; i++)
             {
                 if (s[i] == '*')
                 {
-                    lifo.Push((lifo.Pop() * lifo.Pop()));
+                    a = lifo.Pop();
+                    b = lifo.Pop();
+                    lifo.Push((b * a));
                 }
                 else if (s[i] == '/')
                 {
-                    lifo.Push((lifo.Pop() / lifo.Pop()));
+                    a = lifo.Pop();
+                    b = lifo.Pop();
+                    lifo.Push((b / a));
                 }
                 else if (s[i] == '+')
                 {
-                    lifo.Push((lifo.Pop() + lifo.Pop()));
+                    a = lifo.Pop();
+                    b = lifo.Pop();
+                    lifo.Push((b + a));
                 }
                 else if (s[i] == '-')
                 {
-                    lifo.Push((lifo.Pop() - lifo.Pop()));
+                    a = lifo.Pop();
+                    b = lifo.Pop();
+                    lifo.Push((b - a));
                 }
                 else
                 {
